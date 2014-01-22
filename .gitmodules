@@ -1,0 +1,3 @@
+[submodule "angular-github"]
+	path = angular-github
+	url = git@github.com:kaheglar/grunt-init-angular.git
